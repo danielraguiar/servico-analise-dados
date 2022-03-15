@@ -34,7 +34,7 @@ Executar: $ mvn clean install spring-boot:run
 
 # Exemplo de arquivos:
 ```
-salvar em: c:/home/data/in/file01
+salvar em: c:/home/data/in/file01.dat
 001ç1234567891234çPedroç50000
 001ç3245678865434çPauloç40000.99
 002ç2345675434544345çJose da SilvaçRural
@@ -43,7 +43,7 @@ salvar em: c:/home/data/in/file01
 003ç08ç[1-34-10,2-33-1.50,3-40-0.10]çPaulo
 ```
 ```
-salvar em: c:/home/data/in/file02
+salvar em: c:/home/data/in/file02.dat
 001ç1234567891234çPedroç50000
 001ç3245678865434çPauloç40000.99
 001ç1234567801234çAndreç50000
@@ -56,7 +56,7 @@ salvar em: c:/home/data/in/file02
 ```
 
 ```
-salvar em: c:/home/data/in/file03
+salvar em: c:/home/data/in/file03.dat
 001ç1234567891234çPedroç50000
 001ç3245678865434çPauloç40000.99
 001ç1234567801234çAndreç50000
